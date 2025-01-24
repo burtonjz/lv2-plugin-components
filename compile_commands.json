@@ -1,0 +1,8 @@
+[
+{
+    "directory": "/home/burtonjz/lv2-plugin-components",
+    "command": "/usr/bin/c++ -DCascadence_EXPORTS -I/home/burtonjz/lv2-plugin-components/src -I/home/burtonjz/lv2-plugin-components/modules/BWidgets/include  -Wall -Wextra -Wpedantic -O2 -fPIC -ffast-math -std=gnu++17 -fPIC -I/usr/include -o CMakeFiles/Plugin.dir/src/main.cpp.o -c /home/burtonjz/lv2-plugin-components/src/main.cpp",
+    "file": "/home/burtonjz/lv2-plugin-components/src/main.cpp",
+    "output": "CMakeFiles/Cascadence.dir/src/main.cpp.o"
+}
+]
